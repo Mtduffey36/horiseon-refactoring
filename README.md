@@ -6,4 +6,4 @@
 * Adding alternates for image sources in the event of a broken link
 * Adding comments in the code to explain certain changes
 ___
-[Horiseon Marking](https://mtduffey36.github.io/horison-refactoring/)
+[Horiseon Marking](https://mtduffey36.github.io/horiseon-refactoring/)
