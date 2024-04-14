@@ -5,8 +5,12 @@
 * Condensed repeated CSS selectors
 * Adding alternates for image sources in the event of a broken link
 * Adding comments in the code to explain certain changes
+* Creating a README file
 ___
-[Horiseon Marking][def]
+[Horiseon SEO][def]
 
 
 [def]: https://mtduffey36.github.io/horiseon-refactoring/
+
+![example website](assets/images/01-html-css-git-homework-demo.png)
+
